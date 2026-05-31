@@ -92,11 +92,11 @@ class SaiShashank:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=msaishashank&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msaishashank&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=shashu-hyper1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashu-hyper1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=msaishashank&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msaishashank&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shashu-hyper1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashu-hyper1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -105,7 +105,7 @@ class SaiShashank:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=msaishashank&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=shashu-hyper1&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -113,7 +113,7 @@ class SaiShashank:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msaishashank&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashu-hyper1&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -121,7 +121,7 @@ class SaiShashank:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=msaishashank&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shashu-hyper1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
@@ -184,11 +184,11 @@ class SaiShashank:
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**Fixed-Wing UAV — SAEISS DDC**](https://github.com/msaishashank) | ANSYS · XFLR5 · Flight Controller · GPS · Telemetry | 530g payload competition UAV; full avionics + ESC + GPS/telemetry integration; ANSYS CFD validated; **AIR 1 Best CFD & AIR 9 Overall (DDC'26)** · AIR 1 Best Design & AIR 14 (DDC'25) |
-| [**DriveSense — AI Safety System**](https://github.com/msaishashank) | ESP32 · Python · OpenCV · GSM/GPS · SIM800L | Multi-sensor platform (alcohol, vibration, pulse, fire, GPS); Python EAR-based real-time drowsiness detection; automated SMS/call alerts; offline GPS logging |
-| [**Full-Stack Task Automation Platform**](https://github.com/msaishashank) | MERN · REST API · JWT · MongoDB | Automated scheduling, JWT auth, REST APIs; optimised MongoDB schema with efficient indexing; full workflow tracking |
-| [**Elderly Care Assistance System**](https://github.com/msaishashank) | STM32 · LoRa · I2C · UART · SpO₂ · GPS | Long-range LoRa telemetry; SpO₂ + heart-rate + temperature + GPS; fall-detection; two-way caregiver comms |
-| [**Automated Email Fraud Detection**](https://github.com/msaishashank) | Python · ML · NLP · TF-IDF · REST API | Ensemble ML phishing engine (TF-IDF + word embeddings); deployed as real-time REST API; minimal false positives |
+| [**Fixed-Wing UAV — SAEISS DDC**](https://github.com/shashu-hyper1) | ANSYS · XFLR5 · Flight Controller · GPS · Telemetry | 530g payload competition UAV; full avionics + ESC + GPS/telemetry integration; ANSYS CFD validated; **AIR 1 Best CFD & AIR 9 Overall (DDC'26)** · AIR 1 Best Design & AIR 14 (DDC'25) |
+| [**DriveSense — AI Safety System**](https://github.com/shashu-hyper1) | ESP32 · Python · OpenCV · GSM/GPS · SIM800L | Multi-sensor platform (alcohol, vibration, pulse, fire, GPS); Python EAR-based real-time drowsiness detection; automated SMS/call alerts; offline GPS logging |
+| [**Full-Stack Task Automation Platform**](https://github.com/shashu-hyper1) | MERN · REST API · JWT · MongoDB | Automated scheduling, JWT auth, REST APIs; optimised MongoDB schema with efficient indexing; full workflow tracking |
+| [**Elderly Care Assistance System**](https://github.com/shashu-hyper1) | STM32 · LoRa · I2C · UART · SpO₂ · GPS | Long-range LoRa telemetry; SpO₂ + heart-rate + temperature + GPS; fall-detection; two-way caregiver comms |
+| [**Automated Email Fraud Detection**](https://github.com/shashu-hyper1) | Python · ML · NLP · TF-IDF · REST API | Ensemble ML phishing engine (TF-IDF + word embeddings); deployed as real-time REST API; minimal false positives |
 
 </div>
 
@@ -244,9 +244,9 @@ class SaiShashank:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-sai-shashankb11376311)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:msaishashank.ece2024@circhennai.net)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/msaishashank)
-![Profile Views](https://komarev.com/ghpvc/?username=msaishashank&color=70a5fd&style=flat-square&label=Profile+Views)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shashu-hyper1.ece2024@circhennai.net)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shashu-hyper1)
+![Profile Views](https://komarev.com/ghpvc/?username=shashu-hyper1&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
