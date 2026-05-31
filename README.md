@@ -23,9 +23,9 @@
 class SaiShashank:
     name        = "M. Sai Shashank"
     location    = "Chennai, Tamil Nadu, India 🇮🇳"
-    degree      = "B.E. — Electronics & Communication Engg."
+    degree      = "B.E. — Electronics &amp; Communication Engg."
     college     = "Chennai Institute of Technology (CGPA: 8.432)"
-    current_role = "UAV Designer & Tester @ Daloft Aerospace"
+    current_role = "UAV Designer &amp; Tester @ Daloft Aerospace"
 
     stack = [
         "ESP32", "STM32", "ARM Cortex-M", "PLC",
@@ -39,7 +39,7 @@ class SaiShashank:
         "Safety-Critical Avionics (DO-178C / DO-254)",
         "BVLOS Flight Control Architecture",
         "Deep Learning for Edge Devices",
-        "VLSI Design & Signal Integrity"
+        "VLSI Design &amp; Signal Integrity"
     ]
 
     achievements = [
@@ -59,58 +59,58 @@ class SaiShashank:
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack &amp; Tools
 
 ### 💬 Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&amp;logo=c&amp;logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&amp;logo=mathworks&amp;logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=flat-square&amp;logo=c&amp;logoColor=white)
 
-### 🌐 Web & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+### 🌐 Web &amp; Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&amp;logo=express&amp;logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&amp;logo=mongodb&amp;logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white)
 
-### 🤖 AI & Machine Learning
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-38BDAE?style=flat-square&logo=amazonalexa&logoColor=white)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-BF91F3?style=flat-square&logo=tensorflow&logoColor=white)
+### 🤖 AI &amp; Machine Learning
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-38BDAE?style=flat-square&amp;logo=amazonalexa&amp;logoColor=white)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-BF91F3?style=flat-square&amp;logo=tensorflow&amp;logoColor=white)
 
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+### ☁️ Cloud &amp; DevOps
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&amp;logo=docker&amp;logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&amp;logo=mqtt&amp;logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&amp;logo=mongodb&amp;logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&amp;logo=mysql&amp;logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&amp;logo=sqlite&amp;logoColor=white)
 
-### 🔌 Microcontrollers & Embedded
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC-FF6600?style=flat-square&logo=siemens&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+### 🔌 Microcontrollers &amp; Embedded
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&amp;logo=espressif&amp;logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&amp;logo=stmicroelectronics&amp;logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&amp;logo=arduino&amp;logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&amp;logo=arm&amp;logoColor=white)
+![PLC](https://img.shields.io/badge/PLC-FF6600?style=flat-square&amp;logo=siemens&amp;logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&amp;logo=raspberrypi&amp;logoColor=white)
 
-### 🛸 UAV & Simulation Tools
-![ANSYS](https://img.shields.io/badge/ANSYS_CFD-FFB71B?style=flat-square&logo=ansys&logoColor=black)
-![XFLR5](https://img.shields.io/badge/XFLR5-1565C0?style=flat-square&logo=airplayaudio&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6D00?style=flat-square&logo=autodesk&logoColor=white)
-![TinkerCAD](https://img.shields.io/badge/TinkerCAD-1477D4?style=flat-square&logo=autodesk&logoColor=white)
-![Flight Controller](https://img.shields.io/badge/Flight_Controller-8B0000?style=flat-square&logo=drone&logoColor=white)
+### 🛸 UAV &amp; Simulation Tools
+![ANSYS](https://img.shields.io/badge/ANSYS_CFD-FFB71B?style=flat-square&amp;logo=ansys&amp;logoColor=black)
+![XFLR5](https://img.shields.io/badge/XFLR5-1565C0?style=flat-square&amp;logo=airplayaudio&amp;logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6D00?style=flat-square&amp;logo=autodesk&amp;logoColor=white)
+![TinkerCAD](https://img.shields.io/badge/TinkerCAD-1477D4?style=flat-square&amp;logo=autodesk&amp;logoColor=white)
+![Flight Controller](https://img.shields.io/badge/Flight_Controller-8B0000?style=flat-square&amp;logo=drone&amp;logoColor=white)
 
 ---
 
@@ -154,12 +154,12 @@ class SaiShashank:
 ## 💼 Work Experience
 
 <details>
-<summary><b>🛸 Daloft Aerospace — UAV Designer & Tester &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Chennai, India &nbsp;|&nbsp; 3 Months</b></summary>
+<summary><b>🛸 Daloft Aerospace — UAV Designer &amp; Tester &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Chennai, India &nbsp;|&nbsp; 3 Months</b></summary>
 <br/>
 
-> ![Flight Control](https://img.shields.io/badge/Flight_Control_Systems-0D1B2A?style=flat-square&logoColor=white) ![Firmware](https://img.shields.io/badge/Proprietary_Firmware-BF91F3?style=flat-square&logoColor=white) ![BVLOS](https://img.shields.io/badge/BVLOS--Ready_Avionics-70A5FD?style=flat-square&logoColor=white) ![Safety Critical](https://img.shields.io/badge/Safety--Critical_Standards-E53935?style=flat-square&logoColor=white) ![Indigenous](https://img.shields.io/badge/Indigenous_Manufacturing-38BDAE?style=flat-square&logoColor=white)
+> ![Flight Control](https://img.shields.io/badge/Flight_Control_Systems-0D1B2A?style=flat-square&amp;logoColor=white) ![Firmware](https://img.shields.io/badge/Proprietary_Firmware-BF91F3?style=flat-square&amp;logoColor=white) ![BVLOS](https://img.shields.io/badge/BVLOS--Ready_Avionics-70A5FD?style=flat-square&amp;logoColor=white) ![Safety Critical](https://img.shields.io/badge/Safety--Critical_Standards-E53935?style=flat-square&amp;logoColor=white) ![Indigenous](https://img.shields.io/badge/Indigenous_Manufacturing-38BDAE?style=flat-square&amp;logoColor=white)
 
-**Daloft Aerospace** (est. 2022) is a flight control system design & manufacturing company with 6+ years of expertise in indigenous UAV avionics — building proprietary firmware and hardware compliant with airborne safety-critical standards for civilian, industrial, and strategic applications.
+**Daloft Aerospace** (est. 2022) is a flight control system design &amp; manufacturing company with 6+ years of expertise in indigenous UAV avionics — building proprietary firmware and hardware compliant with airborne safety-critical standards for civilian, industrial, and strategic applications.
 
 - Contributed to **building the core intelligence of modern UAVs** — working on proprietary flight control firmware with full traceability, verification capability, and long-term scalability.
 - Designed and tested **BVLOS-ready flight control solutions** aimed at completely eliminating India's dependence on imported UAV avionics components for both civilian and defence missions.
@@ -182,23 +182,23 @@ class SaiShashank:
 </details>
 
 <details>
-<summary><b>🏭 Wiztech Automation Pvt. Ltd. — Automation & Embedded Systems Intern &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Chennai, TN &nbsp;|&nbsp; 4 Months</b></summary>
+<summary><b>🏭 Wiztech Automation Pvt. Ltd. — Automation &amp; Embedded Systems Intern &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Chennai, TN &nbsp;|&nbsp; 4 Months</b></summary>
 <br/>
 
-> ![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=flat-square&logo=c&logoColor=white) ![PLC](https://img.shields.io/badge/PLC_Logic-FF6600?style=flat-square) ![PCB](https://img.shields.io/badge/PCB_Debug-009900?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![UART](https://img.shields.io/badge/UART_%2F_I2C_%2F_SPI-607D8B?style=flat-square)
+> ![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=flat-square&amp;logo=c&amp;logoColor=white) ![PLC](https://img.shields.io/badge/PLC_Logic-FF6600?style=flat-square) ![PCB](https://img.shields.io/badge/PCB_Debug-009900?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white) ![UART](https://img.shields.io/badge/UART_%2F_I2C_%2F_SPI-607D8B?style=flat-square)
 
-- Developed microcontroller-based industrial automation using **PLC logic & Embedded C** for production-grade deployment.
+- Developed microcontroller-based industrial automation using **PLC logic &amp; Embedded C** for production-grade deployment.
 - Debugged **PCB-level hardware faults** including signal integrity issues and power rail failures; deployed full automation prototypes.
-- Worked on **Python & embedded system integration** for software-hardware co-design and sensor pipelines.
+- Worked on **Python &amp; embedded system integration** for software-hardware co-design and sensor pipelines.
 - Earned **Advanced Certification in Embedded Systems** upon successful completion.
 
 </details>
 
 <details>
-<summary><b>☁️ Microsoft — Cloud Architecture & IoT Intern &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Remote</b></summary>
+<summary><b>☁️ Microsoft — Cloud Architecture &amp; IoT Intern &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Remote</b></summary>
 <br/>
 
-> ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square) ![IoT](https://img.shields.io/badge/Azure_IoT-00ACC1?style=flat-square&logo=microsoftazure&logoColor=white)
+> ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square) ![IoT](https://img.shields.io/badge/Azure_IoT-00ACC1?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white)
 
 - Designed and deployed **Azure IoT pipelines** with REST API workflows and Python-driven data automation.
 - Built cloud-integrated solutions using **Azure services** for real-time sensor data handling at scale.
@@ -208,13 +208,13 @@ class SaiShashank:
 </details>
 
 <details>
-<summary><b>✈️ Skyrider Aerosolutions — Aerospace & Aviation Training &nbsp;|&nbsp; Chennai, India</b></summary>
+<summary><b>✈️ Skyrider Aerosolutions — Aerospace &amp; Aviation Training &nbsp;|&nbsp; Chennai, India</b></summary>
 <br/>
 
 > ![DJI](https://img.shields.io/badge/DJI_Platforms-000000?style=flat-square) ![FPV](https://img.shields.io/badge/FPV_Drones-E53935?style=flat-square) ![AME](https://img.shields.io/badge/AME_Modules-1A237E?style=flat-square) ![Civil Aviation](https://img.shields.io/badge/Civil_Aviation_Compliance-0277BD?style=flat-square) ![Gas Turbine](https://img.shields.io/badge/Gas_Turbine_Engines-FF8F00?style=flat-square)
 
 - Hands-on fabrication, programming, and flying across **DJI, FPV, and standard drone platforms**; simulation and maintenance training.
-- Trained in **Gas Turbine & Piston Engine** mechanics, Aircraft Electronic Fundamentals, and Propeller systems (AME modules).
+- Trained in **Gas Turbine &amp; Piston Engine** mechanics, Aircraft Electronic Fundamentals, and Propeller systems (AME modules).
 - Completed **Civil Aviation compliance training** — airworthiness protocols, Human Performance standards, and special requirements.
 - Flight operations, emergency procedures, and basic aircraft maintenance disciplines.
 
@@ -228,9 +228,9 @@ class SaiShashank:
 
 | 🛸 Project | ⚙️ Stack | 🎯 Highlights |
 |---|---|---|
-| [**Fixed-Wing UAV — SAEISS DDC**](https://github.com/shashu-hyper1) | ANSYS · XFLR5 · Flight Controller · GPS · Telemetry | 530g payload competition UAV; full avionics + ESC + GPS/telemetry; ANSYS CFD validated aerodynamics; **AIR 1 Best CFD & AIR 9 Overall (DDC'26)**; AIR 1 Best Design & AIR 14 (DDC'25) |
+| [**Fixed-Wing UAV — SAEISS DDC**](https://github.com/shashu-hyper1) | ANSYS · XFLR5 · Flight Controller · GPS · Telemetry | 530g payload competition UAV; full avionics + ESC + GPS/telemetry; ANSYS CFD validated aerodynamics; **AIR 1 Best CFD &amp; AIR 9 Overall (DDC'26)**; AIR 1 Best Design &amp; AIR 14 (DDC'25) |
 | [**DriveSense — AI Safety System**](https://github.com/shashu-hyper1) | ESP32 · Python · OpenCV · GSM · SIM800L · GPS | Multi-sensor platform (alcohol, vibration, pulse, fire, GPS); Python EAR-based real-time drowsiness detection; automated SMS/call alerts; offline GPS logging for field reliability |
-| [**Full-Stack Task Automation Platform**](https://github.com/shashu-hyper1) | MERN · REST API · JWT · MongoDB | Automated scheduling, JWT auth, REST APIs; optimised MongoDB schema; full workflow & notification tracking |
+| [**Full-Stack Task Automation Platform**](https://github.com/shashu-hyper1) | MERN · REST API · JWT · MongoDB | Automated scheduling, JWT auth, REST APIs; optimised MongoDB schema; full workflow &amp; notification tracking |
 | [**Elderly Care Assistance System**](https://github.com/shashu-hyper1) | STM32 · LoRa · I2C · UART · SpO₂ · GPS | Long-range LoRa telemetry; SpO₂ + heart-rate + temperature + GPS; fall-detection algorithm; two-way caregiver comms |
 | [**Automated Email Fraud Detection**](https://github.com/shashu-hyper1) | Python · ML · NLP · TF-IDF · REST API | Ensemble ML phishing engine (TF-IDF + word embeddings); deployed as real-time REST API; minimal false positive rate |
 
@@ -249,8 +249,8 @@ class SaiShashank:
 | 🥇 | **DDC'25 — AIR 1 Best Design Report** | SAEISS National UAV Competition 2025 |
 | 🏅 | **DDC'25 — AIR 14 Overall** | SAEISS National UAV Competition 2025 |
 | 🥈 | **Runner-up — Rajasthan Digifest × TiE Global Hackathon 2025** | National-level hackathon in partnership with TiE Global |
-| 🔬 | **DRDO — SSPL Funded Research Project** | Sound Ranging & DOA Estimation for drones; govt. contract under Solid State Physics Laboratory, DRDO |
-| 📄 | **3 Research Papers Published** | Peer-reviewed publications in embedded systems, UAV avionics & AI |
+| 🔬 | **DRDO — SSPL Funded Research Project** | Sound Ranging &amp; DOA Estimation for drones; govt. contract under Solid State Physics Laboratory, DRDO |
+| 📄 | **3 Research Papers Published** | Peer-reviewed publications in embedded systems, UAV avionics &amp; AI |
 | 📝 | **1 Patent Filed** | Filed patent for hardware/AI integrated safety system |
 | 🎓 | **Selected — APF '25 (SVCE)** | Sri Venkateswara College of Engineering — hardware + AI project execution track |
 
@@ -265,14 +265,14 @@ class SaiShashank:
 | 🎖️ Certification | 🏛️ Issuer |
 |---|---|
 | Advanced Certification in Embedded Systems | Wiztech Automation |
-| Industry 4.0 & Industrial IoT — **NPTEL Elite** | IIT Kanpur |
+| Industry 4.0 &amp; Industrial IoT — **NPTEL Elite** | IIT Kanpur |
 | CCNA: Introduction to Networks | Cisco |
 | Full Stack Developer | Wiztech Automation |
 | Microsoft Azure AI Essentials | Microsoft |
 | Docker Foundations | LinkedIn Learning |
 | GitHub Professional Certificate | Microsoft / GitHub |
 | Microsoft Security Essentials | Microsoft |
-| Soft Skills & Personality Development | IIT Kanpur (NPTEL) |
+| Soft Skills &amp; Personality Development | IIT Kanpur (NPTEL) |
 
 </div>
 
@@ -284,7 +284,7 @@ class SaiShashank:
 
 | 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
 |---|---|---|---|
-| B.E. — Electronics & Communication Engineering | Chennai Institute of Technology | Jul 2023 — Present | **CGPA: 8.432** |
+| B.E. — Electronics &amp; Communication Engineering | Chennai Institute of Technology | Jul 2023 — Present | **CGPA: 8.432** |
 | HSC — CBSE Board | Chennai Public School, Chennai | Jun 2022 — May 2023 | **87%** |
 
 </div>
@@ -295,8 +295,8 @@ class SaiShashank:
 
 ```
 🛸 Safety-Critical Avionics  →  DO-178C · DO-254 · BVLOS Flight Control Architecture
-🤖 Edge AI & Deep Learning   →  TensorFlow Lite · YOLO on Embedded · Model Quantisation
-🔌 VLSI & Digital Design     →  RTL Design · Signal Integrity · Power Electronics
+🤖 Edge AI &amp; Deep Learning   →  TensorFlow Lite · YOLO on Embedded · Model Quantisation
+🔌 VLSI &amp; Digital Design     →  RTL Design · Signal Integrity · Power Electronics
 ☁️ Cloud-Native DevOps       →  Kubernetes · CI/CD Pipelines · Azure AKS
 📡 Advanced Wireless          →  LoRaWAN · Zigbee · 5G IoT Integration
 🧪 Research                   →  Acoustic DOA Estimation · Signal Processing · UAV Detection
@@ -308,9 +308,9 @@ class SaiShashank:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-sai-shashankb11376311)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msaishashank.ece2024@circhennai.net)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashu-hyper1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/m-sai-shashankb11376311)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:msaishashank.ece2024@circhennai.net)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/shashu-hyper1)
 
 </div>
 
