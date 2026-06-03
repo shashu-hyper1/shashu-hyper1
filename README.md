@@ -1,10 +1,8 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Shashank%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20%7C%20UAV%20Engineer%20%7C%20Embedded%20Systems%20%7C%20AI%20%26%20Full-Stack%20Dev&descAlignY=62&descSize=16)
 
 <div align="center">
-![ ](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=UAV+Engineer+%7C+Daloft+Aerospace;AIR+1+Best+CFD+%40+DDC%2726+%7C+DRDO-SSPL+Researcher;Embedded+Systems+%2B+Flight+Control+Dev;Full-Stack+%2B+AI+%2B+IoT+Builder)
-</div>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=UAV+Engineer+%7C+Daloft+Aerospace;AIR+1+Best+CFD+%40+DDC%2726+%7C+DRDO-SSPL+Researcher;Embedded+Systems+%2B+Flight+Control+Dev;Full-Stack+%2B+AI+%2B+IoT+Builder)](https://readme-typing-svg.demolab.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shashu-hyper1&color=70a5fd&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/shashu-hyper1?color=bf91f3&style=flat-square&logo=github&label=Followers)
@@ -15,7 +13,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 <img align="right" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -57,7 +55,7 @@ class SaiShashank:
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -118,59 +116,67 @@ class SaiShashank:
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-![ ](https://github-readme-stats.vercel.app/api?username=shashu-hyper1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=shashu-hyper1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashu-hyper1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)](https://github.com/shashu-hyper1)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashu-hyper1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/shashu-hyper1)
+
 </div>
 
 ---
 
-## Streak Stats
+## 🔥 Streak Stats
 
 <div align="center">
-![ ](https://streak-stats.demolab.com?user=shashu-hyper1&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shashu-hyper1&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://streak-stats.demolab.com)
+
 </div>
 
 ---
 
-## Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
-![ ](https://github-readme-activity-graph.vercel.app/graph?username=shashu-hyper1&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shashu-hyper1&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/shashu-hyper1)
+
 </div>
 
 ---
 
-## Trophy Wall
+## 🏆 Trophy Wall
 
 <div align="center">
-![ ](https://github-profile-trophy.vercel.app/?username=shashu-hyper1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=shashu-hyper1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/shashu-hyper1)
+
 </div>
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
-### Daloft Aerospace - UAV Designer and Tester | 2025 | Chennai, India | 3 Months
+### 🛸 Daloft Aerospace — UAV Designer and Tester | 2025 | Chennai, India | 3 Months
 
-![Flight Control](https://img.shields.io/badge/Flight_Control_Systems-0D1B2A?style=flat-square&logoColor=white)
-![Firmware](https://img.shields.io/badge/Proprietary_Firmware-BF91F3?style=flat-square&logoColor=white)
-![BVLOS](https://img.shields.io/badge/BVLOS_Ready_Avionics-70A5FD?style=flat-square&logoColor=white)
-![Safety Critical](https://img.shields.io/badge/Safety_Critical_Standards-E53935?style=flat-square&logoColor=white)
-![Indigenous](https://img.shields.io/badge/Indigenous_Manufacturing-38BDAE?style=flat-square&logoColor=white)
+![Flight Control](https://img.shields.io/badge/Flight_Control_Systems-0D1B2A?style=flat-square)
+![Firmware](https://img.shields.io/badge/Proprietary_Firmware-BF91F3?style=flat-square)
+![BVLOS](https://img.shields.io/badge/BVLOS_Ready_Avionics-70A5FD?style=flat-square)
+![Safety Critical](https://img.shields.io/badge/Safety_Critical_Standards-E53935?style=flat-square)
+![Indigenous](https://img.shields.io/badge/Indigenous_Manufacturing-38BDAE?style=flat-square)
 
 Daloft Aerospace (est. 2022) is a flight control system design and manufacturing company with 6+ years of expertise in indigenous UAV avionics, building proprietary firmware and hardware compliant with airborne safety-critical standards for civilian, industrial, and strategic applications.
 
-- Contributed to **building the core intelligence of modern UAVs** - working on proprietary flight control firmware with full traceability, verification capability, and long-term scalability.
+- Contributed to **building the core intelligence of modern UAVs** working on proprietary flight control firmware with full traceability, verification capability, and long-term scalability.
 - Designed and tested **BVLOS-ready flight control solutions** aimed at eliminating India's dependence on imported UAV avionics for both civilian and defence missions.
 - Participated in **rigorous verification pipelines** ensuring airborne safety-critical compliance across hardware and software layers.
 - Collaborated on systems aligned with India's vision to set the **safety-critical standard for certifiable UAV avionics**, working alongside regulatory and defence bodies.
 
 ---
 
-### Chennai Institute of Technology - Drone Technology Intern | 2024 | Chennai, India
+### 🚁 Chennai Institute of Technology — Drone Technology Intern | 2024 | Chennai, India
 
 ![Flight Controller](https://img.shields.io/badge/Flight_Controller_Config-8B0000?style=flat-square)
 ![PID](https://img.shields.io/badge/PID_Tuning-FF6D00?style=flat-square)
@@ -185,7 +191,7 @@ Daloft Aerospace (est. 2022) is a flight control system design and manufacturing
 
 ---
 
-### Wiztech Automation Pvt. Ltd. - Automation and Embedded Systems Intern | 2024 | Chennai, TN | 4 Months
+### 🏭 Wiztech Automation Pvt. Ltd. — Automation and Embedded Systems Intern | 2024 | Chennai, TN | 4 Months
 
 ![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=flat-square&logo=c&logoColor=white)
 ![PLC](https://img.shields.io/badge/PLC_Logic-FF6600?style=flat-square)
@@ -199,7 +205,7 @@ Daloft Aerospace (est. 2022) is a flight control system design and manufacturing
 
 ---
 
-### Microsoft - Cloud Architecture and IoT Intern | 2024 | Remote
+### ☁️ Microsoft — Cloud Architecture and IoT Intern | 2024 | Remote
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -213,7 +219,7 @@ Daloft Aerospace (est. 2022) is a flight control system design and manufacturing
 
 ---
 
-### Skyrider Aerosolutions - Aerospace and Aviation Training | Chennai, India
+### ✈️ Skyrider Aerosolutions — Aerospace and Aviation Training | Chennai, India
 
 ![DJI](https://img.shields.io/badge/DJI_Platforms-000000?style=flat-square)
 ![FPV](https://img.shields.io/badge/FPV_Drones-E53935?style=flat-square)
@@ -222,24 +228,24 @@ Daloft Aerospace (est. 2022) is a flight control system design and manufacturing
 
 - Hands-on fabrication, programming, and flying across **DJI, FPV, and standard drone platforms**.
 - Trained in **Gas Turbine and Piston Engine** mechanics, Aircraft Electronic Fundamentals, and Propeller systems.
-- Completed **Civil Aviation compliance training** - airworthiness protocols and Human Performance standards.
+- Completed **Civil Aviation compliance training** including airworthiness protocols and Human Performance standards.
 - Flight operations, emergency procedures, and basic aircraft maintenance disciplines.
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [Fixed-Wing UAV - SAEISS DDC](https://github.com/shashu-hyper1) | ANSYS, XFLR5, Flight Controller, GPS, Telemetry | 530g payload competition UAV; full avionics + ESC + GPS/telemetry; ANSYS CFD validated; AIR 1 Best CFD and AIR 9 Overall DDC 2026; AIR 1 Best Design and AIR 14 DDC 2025 |
-| [DriveSense - AI Safety System](https://github.com/shashu-hyper1) | ESP32, Python, OpenCV, GSM, SIM800L, GPS | Multi-sensor platform; Python EAR-based real-time drowsiness detection; automated SMS/call alerts; offline GPS logging |
+| [Fixed-Wing UAV - SAEISS DDC](https://github.com/shashu-hyper1) | ANSYS, XFLR5, Flight Controller, GPS, Telemetry | 530g payload; full avionics + ESC + GPS/telemetry; ANSYS CFD validated; AIR 1 Best CFD and AIR 9 Overall DDC 2026; AIR 1 Best Design and AIR 14 DDC 2025 |
+| [DriveSense - AI Safety System](https://github.com/shashu-hyper1) | ESP32, Python, OpenCV, GSM, SIM800L, GPS | Multi-sensor platform; EAR-based drowsiness detection; automated SMS/call alerts; offline GPS logging |
 | [Full-Stack Task Automation Platform](https://github.com/shashu-hyper1) | MERN, REST API, JWT, MongoDB | Automated scheduling, JWT auth, REST APIs; optimised MongoDB schema; full workflow tracking |
-| [Elderly Care Assistance System](https://github.com/shashu-hyper1) | STM32, LoRa, I2C, UART, SpO2, GPS | Long-range LoRa telemetry; SpO2 + heart-rate + temperature + GPS; fall-detection; two-way caregiver comms |
-| [Automated Email Fraud Detection](https://github.com/shashu-hyper1) | Python, ML, NLP, TF-IDF, REST API | Ensemble ML phishing engine; deployed as real-time REST API; minimal false positive rate |
+| [Elderly Care Assistance System](https://github.com/shashu-hyper1) | STM32, LoRa, I2C, UART, SpO2, GPS | Long-range LoRa telemetry; SpO2 + heart-rate + GPS; fall-detection; two-way caregiver comms |
+| [Automated Email Fraud Detection](https://github.com/shashu-hyper1) | Python, ML, NLP, TF-IDF, REST API | Ensemble ML phishing engine; real-time REST API; minimal false positive rate |
 
 ---
 
-## Achievements
+## 🏅 Achievements
 
 | | Achievement | Details |
 |---|---|---|
@@ -248,14 +254,14 @@ Daloft Aerospace (est. 2022) is a flight control system design and manufacturing
 | Gold | DDC 2025 - AIR 1 Best Design Report | SAEISS National UAV Competition 2025 |
 | Medal | DDC 2025 - AIR 14 Overall | SAEISS National UAV Competition 2025 |
 | Silver | Runner-up - Rajasthan Digifest x TiE Global Hackathon 2025 | National-level hackathon in partnership with TiE Global |
-| Research | DRDO - SSPL Funded Research Project | Sound Ranging and DOA Estimation for drones; govt. contract under Solid State Physics Laboratory |
+| Research | DRDO - SSPL Funded Research Project | Sound Ranging and DOA Estimation for drones under govt. contract, Solid State Physics Laboratory |
 | Papers | 3 Research Papers Published | Peer-reviewed publications in embedded systems, UAV avionics and AI |
 | Patent | 1 Patent Filed | Filed patent for hardware/AI integrated safety system |
 | Selected | APF 2025 SVCE | Sri Venkateswara College of Engineering - hardware + AI project execution track |
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 | Certification | Issuer |
 |---|---|
@@ -271,7 +277,7 @@ Daloft Aerospace (est. 2022) is a flight control system design and manufacturing
 
 ---
 
-## Education
+## 🎓 Education
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
@@ -280,7 +286,7 @@ Daloft Aerospace (est. 2022) is a flight control system design and manufacturing
 
 ---
 
-## Currently Learning
+## 🧠 Currently Learning
 
 ```
 UAV Systems         ->  Safety-Critical Avionics, BVLOS Flight Control Architecture
@@ -293,10 +299,14 @@ Research            ->  Acoustic DOA Estimation, Signal Processing, UAV Detectio
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-sai-shashankb11376311)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msaishashank.ece2024@circhennai.net)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashu-hyper1)
+
+</div>
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
