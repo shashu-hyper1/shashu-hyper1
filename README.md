@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Sai%20Shashank%20M&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=ECE%20%7C%20UAV%20Engineer%20%7C%20Embedded%20Systems%20%7C%20AI%20%26%20Full-Stack%20Dev&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Shashank%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20%7C%20UAV%20Engineer%20%7C%20Embedded%20Systems%20%7C%20AI%20%26%20Full-Stack%20Dev&descAlignY=62&descSize=16)
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=UAV+Engineer+%7C+Daloft+Aerospace;AIR+1+Best+CFD+%40+DDC%2726+%7C+DRDO-SSPL+Researcher;Embedded+Systems+%2B+Flight+Control+Dev;Full-Stack+%2B+AI+%2B+IoT+Builder" alt="Typing SVG"/>
+![ ](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=UAV+Engineer+%7C+Daloft+Aerospace;AIR+1+Best+CFD+%40+DDC%2726+%7C+DRDO-SSPL+Researcher;Embedded+Systems+%2B+Flight+Control+Dev;Full-Stack+%2B+AI+%2B+IoT+Builder)
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=shashu-hyper1&amp;color=70a5fd&amp;style=flat-square&amp;label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/shashu-hyper1?color=bf91f3&amp;style=flat-square&amp;logo=github&amp;label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=shashu-hyper1&color=70a5fd&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/shashu-hyper1?color=bf91f3&style=flat-square&logo=github&label=Followers)
 ![Focus](https://img.shields.io/badge/Focus-UAV%20%26%20Embedded%20Systems-38bdae?style=flat-square)
 ![Location](https://img.shields.io/badge/Lives-Chennai%2C%20India-70a5fd?style=flat-square)
 
@@ -61,68 +61,68 @@ class SaiShashank:
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&amp;logo=c&amp;logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&amp;logo=mathworks&amp;logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=flat-square&amp;logo=c&amp;logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=flat-square&logo=c&logoColor=white)
 
 **Web and Frameworks**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&amp;logo=express&amp;logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&amp;logo=mongodb&amp;logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **AI and Machine Learning**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-38BDAE?style=flat-square&amp;logo=amazonalexa&amp;logoColor=white)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-BF91F3?style=flat-square&amp;logo=tensorflow&amp;logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-38BDAE?style=flat-square&logo=amazonalexa&logoColor=white)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-BF91F3?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Cloud and DevOps**
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&amp;logo=docker&amp;logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=firebase&amp;logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&amp;logo=mqtt&amp;logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&amp;logo=mongodb&amp;logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&amp;logo=mysql&amp;logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&amp;logo=sqlite&amp;logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
 **Microcontrollers and Embedded**
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&amp;logo=espressif&amp;logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&amp;logo=stmicroelectronics&amp;logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&amp;logo=arduino&amp;logoColor=white)
-![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&amp;logo=arm&amp;logoColor=white)
-![PLC](https://img.shields.io/badge/PLC-FF6600?style=flat-square&amp;logo=siemens&amp;logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&amp;logo=raspberrypi&amp;logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC-FF6600?style=flat-square&logo=siemens&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 **UAV and Simulation Tools**
 
-![ANSYS](https://img.shields.io/badge/ANSYS_CFD-FFB71B?style=flat-square&amp;logo=ansys&amp;logoColor=black)
-![XFLR5](https://img.shields.io/badge/XFLR5-1565C0?style=flat-square&amp;logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6D00?style=flat-square&amp;logo=autodesk&amp;logoColor=white)
-![TinkerCAD](https://img.shields.io/badge/TinkerCAD-1477D4?style=flat-square&amp;logo=autodesk&amp;logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS_CFD-FFB71B?style=flat-square&logo=ansys&logoColor=black)
+![XFLR5](https://img.shields.io/badge/XFLR5-1565C0?style=flat-square&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6D00?style=flat-square&logo=autodesk&logoColor=white)
+![TinkerCAD](https://img.shields.io/badge/TinkerCAD-1477D4?style=flat-square&logo=autodesk&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashu-hyper1&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashu-hyper1&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
+![ ](https://github-readme-stats.vercel.app/api?username=shashu-hyper1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=shashu-hyper1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
 </div>
 
 ---
@@ -130,7 +130,7 @@ class SaiShashank:
 ## Streak Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=shashu-hyper1&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" alt="GitHub Streak"/>
+![ ](https://streak-stats.demolab.com?user=shashu-hyper1&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
 </div>
 
 ---
@@ -138,7 +138,7 @@ class SaiShashank:
 ## Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashu-hyper1&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" width="100%" alt="Activity Graph"/>
+![ ](https://github-readme-activity-graph.vercel.app/graph?username=shashu-hyper1&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 </div>
 
 ---
@@ -146,7 +146,7 @@ class SaiShashank:
 ## Trophy Wall
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shashu-hyper1&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4" alt="Trophies"/>
+![ ](https://github-profile-trophy.vercel.app/?username=shashu-hyper1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
 </div>
 
 ---
@@ -155,11 +155,11 @@ class SaiShashank:
 
 ### Daloft Aerospace - UAV Designer and Tester | 2025 | Chennai, India | 3 Months
 
-![Flight Control](https://img.shields.io/badge/Flight_Control_Systems-0D1B2A?style=flat-square&amp;logoColor=white)
-![Firmware](https://img.shields.io/badge/Proprietary_Firmware-BF91F3?style=flat-square&amp;logoColor=white)
-![BVLOS](https://img.shields.io/badge/BVLOS_Ready_Avionics-70A5FD?style=flat-square&amp;logoColor=white)
-![Safety Critical](https://img.shields.io/badge/Safety_Critical_Standards-E53935?style=flat-square&amp;logoColor=white)
-![Indigenous](https://img.shields.io/badge/Indigenous_Manufacturing-38BDAE?style=flat-square&amp;logoColor=white)
+![Flight Control](https://img.shields.io/badge/Flight_Control_Systems-0D1B2A?style=flat-square&logoColor=white)
+![Firmware](https://img.shields.io/badge/Proprietary_Firmware-BF91F3?style=flat-square&logoColor=white)
+![BVLOS](https://img.shields.io/badge/BVLOS_Ready_Avionics-70A5FD?style=flat-square&logoColor=white)
+![Safety Critical](https://img.shields.io/badge/Safety_Critical_Standards-E53935?style=flat-square&logoColor=white)
+![Indigenous](https://img.shields.io/badge/Indigenous_Manufacturing-38BDAE?style=flat-square&logoColor=white)
 
 Daloft Aerospace (est. 2022) is a flight control system design and manufacturing company with 6+ years of expertise in indigenous UAV avionics, building proprietary firmware and hardware compliant with airborne safety-critical standards for civilian, industrial, and strategic applications.
 
@@ -187,10 +187,10 @@ Daloft Aerospace (est. 2022) is a flight control system design and manufacturing
 
 ### Wiztech Automation Pvt. Ltd. - Automation and Embedded Systems Intern | 2024 | Chennai, TN | 4 Months
 
-![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=flat-square&amp;logo=c&amp;logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=flat-square&logo=c&logoColor=white)
 ![PLC](https://img.shields.io/badge/PLC_Logic-FF6600?style=flat-square)
 ![PCB](https://img.shields.io/badge/PCB_Debug-009900?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 - Developed microcontroller-based industrial automation using **PLC logic and Embedded C** for production-grade deployment.
 - Debugged **PCB-level hardware faults** and deployed full automation prototypes.
@@ -201,10 +201,10 @@ Daloft Aerospace (est. 2022) is a flight control system design and manufacturing
 
 ### Microsoft - Cloud Architecture and IoT Intern | 2024 | Remote
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
-![IoT](https://img.shields.io/badge/Azure_IoT-00ACC1?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white)
+![IoT](https://img.shields.io/badge/Azure_IoT-00ACC1?style=flat-square&logo=microsoftazure&logoColor=white)
 
 - Designed and deployed **Azure IoT pipelines** with REST API workflows and Python-driven data automation.
 - Built cloud-integrated solutions using **Azure services** for real-time sensor data handling at scale.
@@ -295,8 +295,8 @@ Research            ->  Acoustic DOA Estimation, Signal Processing, UAV Detectio
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/m-sai-shashankb11376311)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:msaishashank.ece2024@circhennai.net)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/shashu-hyper1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-sai-shashankb11376311)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msaishashank.ece2024@circhennai.net)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashu-hyper1)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
