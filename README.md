@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/shashu-hyper1/shashu-hyper1/main/banner.svg)
+![banner](https://shashu-hyper1.github.io/shashu-hyper1/banner.svg)
 
 <div align="center">
 
