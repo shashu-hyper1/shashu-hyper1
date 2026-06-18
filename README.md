@@ -151,7 +151,7 @@ class SaiShashank:
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=shashu-hyper1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/shashu-hyper1)
+![Trophies](https://shashu-hyper1.github.io/shashu-hyper1/trophies.svg)
 
 </div>
 
