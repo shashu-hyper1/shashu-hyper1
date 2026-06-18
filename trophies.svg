@@ -1,0 +1,60 @@
+<svg width="900" height="110" viewBox="0 0 900 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0f1b2d"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="110" rx="10" fill="url(#bg)"/>
+
+  <!-- Card 1: AIR 1 CFD -->
+  <rect x="8" y="8" width="120" height="94" rx="8" fill="#0d1117" stroke="#70a5fd" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="68" y="38" text-anchor="middle" font-size="26">🥇</text>
+  <text x="68" y="58" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9.5" fill="#70a5fd" font-weight="700">AIR 1</text>
+  <text x="68" y="71" text-anchor="middle" font-family="'Fira Code',monospace" font-size="8" fill="#8b949e">Best CFD</text>
+  <text x="68" y="83" text-anchor="middle" font-family="'Fira Code',monospace" font-size="8" fill="#8b949e">DDC '26</text>
+
+  <!-- Card 2: AIR 9 Overall -->
+  <rect x="136" y="8" width="120" height="94" rx="8" fill="#0d1117" stroke="#bf91f3" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="196" y="38" text-anchor="middle" font-size="26">🏅</text>
+  <text x="196" y="58" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9.5" fill="#bf91f3" font-weight="700">AIR 9</text>
+  <text x="196" y="71" text-anchor="middle" font-family="'Fira Code',monospace" font-size="8" fill="#8b949e">Overall</text>
+  <text x="196" y="83" text-anchor="middle" font-family="'Fira Code',monospace" font-size="8" fill="#8b949e">DDC '26</text>
+
+  <!-- Card 3: AIR 1 Design -->
+  <rect x="264" y="8" width="120" height="94" rx="8" fill="#0d1117" stroke="#38bdae" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="324" y="38" text-anchor="middle" font-size="26">🥇</text>
+  <text x="324" y="58" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9.5" fill="#38bdae" font-weight="700">AIR 1</text>
+  <text x="324" y="71" text-anchor="middle" font-family="'Fira Code',monospace" font-size="8" fill="#8b949e">Best Design</text>
+  <text x="324" y="83" text-anchor="middle" font-family="'Fira Code',monospace" font-size="8" fill="#8b949e">DDC '25</text>
+
+  <!-- Card 4: DRDO -->
+  <rect x="392" y="8" width="120" height="94" rx="8" fill="#0d1117" stroke="#ff7b6e" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="452" y="38" text-anchor="middle" font-size="26">🔬</text>
+  <text x="452" y="58" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9.5" fill="#ff7b6e" font-weight="700">DRDO</text>
+  <text x="452" y="71" text-anchor="middle" font-family="'Fira Code',monospace" font-size="8" fill="#8b949e">SSPL Funded</text>
+  <text x="452" y="83" text-anchor="middle" font-family="'Fira Code',monospace" font-size="8" fill="#8b949e">Researcher</text>
+
+  <!-- Card 5: Hackathon -->
+  <rect x="520" y="8" width="120" height="94" rx="8" fill="#0d1117" stroke="#ffb74d" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="580" y="38" text-anchor="middle" font-size="26">🥈</text>
+  <text x="580" y="58" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9.5" fill="#ffb74d" font-weight="700">Runner Up</text>
+  <text x="580" y="71" text-anchor="middle" font-family="'Fira Code',monospace" font-size="8" fill="#8b949e">TiE Global</text>
+  <text x="580" y="83" text-anchor="middle" font-family="'Fira Code',monospace" font-size="8" fill="#8b949e">Hackathon '25</text>
+
+  <!-- Card 6: Papers -->
+  <rect x="648" y="8" width="120" height="94" rx="8" fill="#0d1117" stroke="#70a5fd" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="708" y="38" text-anchor="middle" font-size="26">📄</text>
+  <text x="708" y="58" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9.5" fill="#70a5fd" font-weight="700">3 Papers</text>
+  <text x="708" y="71" text-anchor="middle" font-family="'Fira Code',monospace" font-size="8" fill="#8b949e">Research</text>
+  <text x="708" y="83" text-anchor="middle" font-family="'Fira Code',monospace" font-size="8" fill="#8b949e">Published</text>
+
+  <!-- Card 7: Patent -->
+  <rect x="776" y="8" width="116" height="94" rx="8" fill="#0d1117" stroke="#bf91f3" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="834" y="38" text-anchor="middle" font-size="26">📝</text>
+  <text x="834" y="58" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9.5" fill="#bf91f3" font-weight="700">Patent</text>
+  <text x="834" y="71" text-anchor="middle" font-family="'Fira Code',monospace" font-size="8" fill="#8b949e">Filed</text>
+  <text x="834" y="83" text-anchor="middle" font-family="'Fira Code',monospace" font-size="8" fill="#8b949e">2024</text>
+</svg>
