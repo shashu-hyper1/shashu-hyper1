@@ -43,8 +43,9 @@ class SaiShashank:
     achievements = [
         "AIR 1 Best CFD at DDC 2026 SAEISS",
         "DRDO-SSPL Funded Researcher",
-        "3 Research Papers | 1 Patent Filed",
-        "Runner-up Rajasthan Digifest x TiE Hackathon 2025"
+        "3 RESEARCH PAPERS | 3 PATENT HOLDER",
+        "Runner-up Rajasthan Digifest x TiE Hackathon 2025",
+        " WINNER FOSSES HARDWARE CHALLLENGE"
     ]
 
     def motto(self):
